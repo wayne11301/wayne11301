@@ -5,7 +5,7 @@ Before coming to CSUEB, I used to work as a full-time actuarial analyst. During 
 
 I LOVE to play video games during my free time (RPGs, board games, strategy games). Hanging around with friends and playing games together is my favorite thing to do in my life.
 
-I will be finishing my master's degree in Dec.2022. So I am actively looking for a software engineering internship opportunity in tech companies or video game studios. Thank you for being interested in my profile.
+I will be finishing my master's degree in Dec.2022. So I am actively looking for a software engineering internship or full-time opportunity in tech companies. Thank you for being interested in my profile.
 
 <!---
 wayne11301/wayne11301 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
