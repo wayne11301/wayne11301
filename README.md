@@ -3,8 +3,6 @@ Hello world! I am Wayne, a graduate student at California State University, East
 
 Before coming to CSUEB, I used to work as a full-time actuarial analyst. During this time, I have worked on various product development projects that sold for more than 4 million USD combined. My primary tasks are: design/negotiate product structures with different departments, calculating optimal premiums and benefits for clients (Excel VBA), estimating the expense for the company, composing filing documents for the competent authority, and more.
 
-I LOVE to play video games during my free time (RPGs, board games, strategy games). Hanging around with friends and playing games together is my favorite thing to do in my life.
-
 I will be finishing my master's degree in Dec.2022. So I am actively looking for a software engineering internship or full-time opportunity in tech companies. Thank you for being interested in my profile.
 
 <!---
