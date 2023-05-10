@@ -3,7 +3,7 @@ Hello world! I am Wayne, a graduate student at California State University, East
 
 Before coming to CSUEB, I used to work as a full-time actuarial analyst. During this time, I have worked on various product development projects that sold for more than 10 million USD combined. My primary tasks are: design/negotiate product structures with different departments, calculating optimal premiums and benefits for clients (Excel VBA), estimating the expense for the company, composing filing documents for the competent authority, and more.
 
-I will be finishing my master's degree in Dec.2022. So I am actively looking for a software engineering internship or full-time opportunity in tech companies. Thank you for being interested in my profile.
+Thank you for viewing my profile.
 
 <!---
 wayne11301/wayne11301 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
